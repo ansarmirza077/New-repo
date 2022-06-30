@@ -6,3 +6,8 @@ int main()
 {
 	printf("hello world");
 }
+
+rtturn 0;
+}
+
+
